@@ -1,0 +1,200 @@
+body{
+    background-color:pink;
+}
+.ramadevi{
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px rgb(1, 1, 66);
+    width: 55px;
+    border:2px solid black;
+    transition: width 4s;
+}
+.ramadevi:hover{
+    width: 110px;
+}
+.Nav-bar{
+    background-color: pink;
+    border-radius: 40px;   
+}
+.Nav-bar li{
+    list-style-type: none;
+    float: left;
+    padding:20px;
+}
+.Nav-bar li a{
+    text-decoration: none;
+}
+.Nav-bar ul{
+    overflow: auto;
+}
+.Nav-bar li a:hover{
+color: black;
+}
+h1{
+    text-align: center;
+    border: 4px solid silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    color: rgb(35, 31, 35);
+    border-radius:40px;
+    background-color:silver;
+    width:50%;
+    transition: width 2s;
+}
+h1:hover{
+    color: black;
+    width: 500px;
+}
+.ramadevi1{
+    margin: 10px;
+    border: 8px solid black;
+    transition: width 2s, height 2s, transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+    transition: transform 2s;
+}
+.ramadevi1:hover{
+    transform: scale(1.1);
+    width: 300px;
+  height: 350px;
+}
+.ramadevi2{
+    margin: 9px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.ramadevi2:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi3{
+    margin: 9px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.ramadevi3:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi4{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.ramadevi4:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+table,tr,th{
+ word-spacing: 300px;
+ background-color: rgb(204, 190, 204);
+ padding: 10px;
+ border-radius: 10px;
+ color: black;
+}
+.ramadevi5{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi5:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi7{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi7:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi9{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi9:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi11{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi11:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi12{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi12:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.ramadevi13{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi13:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+
+}
+.ramadevi14{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(75, 77, 77);
+}
+.ramadevi14:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.vaishu15{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(16, 77, 77);
+}
+.ramadevi15:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+
